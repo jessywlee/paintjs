@@ -1,2 +1,2 @@
 # paintjs
-Painting Board made with JS
+Painting Canvas made with JS
